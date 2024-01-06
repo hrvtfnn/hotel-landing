@@ -9,7 +9,7 @@ The expectation was for the page to include:
 # Screenshot 🎢
 ![screenshot](https://github.com/hrvtfnn/hotel-landing/blob/main/screenshot.png?raw=true)
 
-# [Live demo](https://hrvtfnn.github.io/aboutme-v2/) 🚀
+# [Live demo](https://hrvtfnn.github.io/hotel-landing/) 🚀
 
 # What I learned 🪄
 I had some issues with the relationship between the hero image and the hero container, and it was challenging for me to figure out how to position them correctly. 🎉
